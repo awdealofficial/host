@@ -20,7 +20,7 @@
      justify-content: center;
      min-height: 100vh;
      font-family: 'Cyber', sans-serif;
-     background: linear-gradient(90deg, #f5ed00 70%, #ffffff 70%), #ffffff;
+     background: linear-gradient(90deg, #ffffff 70%, #ffffff 70%), #ffffff;
    }
    
    a{
