@@ -245,7 +245,7 @@
  }
  
  body.cyber {
-     background-image: linear-gradient(90deg, #f5ed00, #e6de00);
+     background-image: linear-gradient(90deg, #ffffff, #ffffff);
      animation: move 20s alternate infinite;
  }
  
